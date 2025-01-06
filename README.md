@@ -2,7 +2,7 @@
 ![](https://img.shields.io/github/stars/KyeOnDiscord/FortConsole)
 ![GitHub all releases](https://img.shields.io/github/downloads/kyeondiscord/FortConsole/total?color=0F0)
 
-An external Fortnite console which reads log files.
+An external Fortnite console which reads log files..
 
 Prerequisites:
 * [![.NET 6 SDK](https://img.shields.io/badge/.NET-6_SDK-5a25e3)](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.9-windows-x64-installer)
